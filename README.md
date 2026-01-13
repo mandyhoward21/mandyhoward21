@@ -1,4 +1,15 @@
-## Hi there 👋
+# About me
+
+## Mandy Howard
+*Computer Science Major*
+###
+📑 Past projects:
+
+🔭 I’m currently working on:
+
+📫 How to reach me: howard.432@wright.edu
+
+⚡ Fun fact:
 
 <!--
 **mandyhoward21/mandyhoward21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
