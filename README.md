@@ -11,9 +11,14 @@ Improving my personal photography website to showcase my portfolio, allow client
 
 📫 How to reach me: howard.432@wright.edu
 
-⚡ Fun facts: I am a member of the Ascend Leadership Program at WSU. 
+⚡ Fun facts: 
+
+I am a member of the Ascend Leadership Program at WSU. 
+
 I currently play in 2 different D&D campagins (one has been ongoing for over 10 years)
+
 I enjoy hosting immersive themed parties.
+
 I am a portrait photographer.
 
 <!--
