@@ -7,19 +7,21 @@
 
 🔭 Upcoming projects:
 
-Creating a Photography Client Management Database to manage photography clients, sessions, invoices, and gallery delivery. 
+✨Creating a Photography Client Management Database to manage photography clients, sessions, invoices, and gallery delivery. 
 
-Improving my personal photography website to showcase my portfolio, allow client inquiries, and integrate a database for client management.
+✨Improving my personal photography website to showcase my portfolio, allow client inquiries, and integrate a database for client management.
+
 
 ⚡ Fun facts: 
 
-I am a member of the Ascend Leadership Program at WSU. 
+✨I am a member of the Ascend Leadership Program at WSU. 
 
-I currently play in 2 different D&D campagins (one has been ongoing for over 10 years)
+✨I currently play in 2 different D&D campagins (one has been ongoing for over 10 years)
 
-I enjoy hosting immersive themed parties.
+✨I enjoy hosting immersive themed parties.
 
-I am a portrait photographer.
+✨I am a portrait photographer.
+
 
 📫 How to reach me: howard.432@wright.edu
 
