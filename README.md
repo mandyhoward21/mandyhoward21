@@ -5,7 +5,9 @@
 ###
 📑 Past projects: C++ Final Project: Photography invoice generator with tax calculations, file I/O, input validation, and pseudocode.
 
-🔭 I’m currently working on: Database Management, Website Development 
+🔭 Upcoming projects: Creating a Photography Client Management Database to manage photography clients, sessions, invoices, and gallery delivery. 
+
+Improving my personal photography website to showcase my portfolio, allow client inquiries, and integrate a database for client management.
 
 📫 How to reach me: howard.432@wright.edu
 
