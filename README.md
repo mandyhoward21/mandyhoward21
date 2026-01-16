@@ -3,13 +3,16 @@
 ## Mandy Howard
 *Computer Science Major*
 ###
-📑 Past projects:
+📑 Past projects: C++ Final Project: Photography invoice generator with tax calculations, file I/O, input validation, and pseudocode.
 
-🔭 I’m currently working on:
+🔭 I’m currently working on: Database Management, Website Development 
 
 📫 How to reach me: howard.432@wright.edu
 
-⚡ Fun fact:
+⚡ Fun facts: I am a member of the Ascend Leadership Program at WSU. 
+I currently play in 2 different D&D campagins (one has been ongoing for over 10 years)
+I enjoy hosting immersive themed parties.
+I am a portrait photographer.
 
 <!--
 **mandyhoward21/mandyhoward21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
