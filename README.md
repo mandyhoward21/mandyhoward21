@@ -5,11 +5,11 @@
 ###
 📑 Past projects: C++ Final Project: Photography invoice generator with tax calculations, file I/O, input validation, and pseudocode.
 
-🔭 Upcoming projects: Creating a Photography Client Management Database to manage photography clients, sessions, invoices, and gallery delivery. 
+🔭 Upcoming projects:
+
+Creating a Photography Client Management Database to manage photography clients, sessions, invoices, and gallery delivery. 
 
 Improving my personal photography website to showcase my portfolio, allow client inquiries, and integrate a database for client management.
-
-📫 How to reach me: howard.432@wright.edu
 
 ⚡ Fun facts: 
 
@@ -20,6 +20,8 @@ I currently play in 2 different D&D campagins (one has been ongoing for over 10 
 I enjoy hosting immersive themed parties.
 
 I am a portrait photographer.
+
+📫 How to reach me: howard.432@wright.edu
 
 <!--
 **mandyhoward21/mandyhoward21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
