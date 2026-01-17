@@ -36,12 +36,14 @@ My Command Line Shell is: Windows PowerShell
 ### Navigating My OS on the Command Line
 
 1. Full / absolute path to your user's home directory: C:\Users\penni
+
 2. Create a directory named `DirA`: mkdir 'DirA'
-3. Create a directory named `Dir B`: mkdir 'DirB'
+
+3. Create a directory named `Dir B`: mkdir 'Dir B'
 
 4. Go into `DirA`: cd DirA
 
-5. Go into `Dir B` from `DirA`: 
+5. Go into `Dir B` from `DirA`: cd ..\Dir B
 
 6. Return to your user's home directory: cd ..
 
@@ -49,20 +51,17 @@ My Command Line Shell is: Windows PowerShell
 
 8. Move the file named `test.txt` into `DirA`: Move-Item 'test.txt' 'DirA'
 
-9. Contents of `test.txt`:
+9. Contents of `test.txt`: notepad.exe test.txt
 ```
-Why did the computer get cold?
-Because it left its Windows open. 
+I trust myself and my ability to figure things out. 
 ```
 10. Make a copy of `test.txt` named `copy.txt` in `DirA`: Copy-Item 'test.txt' 'copy.txt'
 
 11. View the contents of `DirA`: ls
+
 12. Make a copy of `test.txt` in `Dir B` named `fodder.txt`: Copy-Item "test.txt" "..\DirB\fodder.txt"
 
-
-13. Delete / remove both `fodder.txt` AND `Dir B`: Remove-Item 'fodder.txt'
-
-Remove-Item 'DirB'
+13. Delete / remove both `fodder.txt` AND `Dir B`: Remove-Item 'Dir B'
 
 
 ## Citations
