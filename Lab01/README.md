@@ -43,7 +43,7 @@ My Command Line Shell is: Windows PowerShell
 
 4. Go into `DirA`: cd DirA
 
-5. Go into `Dir B` from `DirA`: cd ..\Dir B
+5. Go into `Dir B` from `DirA`: cd "..\Dir B"
 
 6. Return to your user's home directory: cd ..
 
@@ -57,7 +57,7 @@ I trust myself and my ability to figure things out.
 ```
 10. Make a copy of `test.txt` named `copy.txt` in `DirA`: Copy-Item 'test.txt' 'copy.txt'
 
-11. View the contents of `DirA`: ls
+11. View the contents of `DirA`: Get-ChildItem ..\penni\DirA
 
 12. Make a copy of `test.txt` in `Dir B` named `fodder.txt`: Copy-Item "test.txt" "..\DirB\fodder.txt"
 
