@@ -69,5 +69,6 @@ I trust myself and my ability to figure things out.
 To add citations, provide the site and a summary of what it assisted you with.  If generative AI was used, include which generative AI system was used and what prompt(s) you fed it.
 
 Powershell used to show actions of commands.
-Googled computer jokes for #9: https://www.facebook.com/groups/542942581191814/posts/1033339372152130/
+
+ChatGpt/Prompt: How to move from one directory, into another that is under the same parent directory in PowerShell. (for #5)
 
